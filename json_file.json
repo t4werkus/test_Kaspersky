@@ -1,0 +1,16 @@
+{
+  "agents": 1000,
+  "storage": 100,
+  "dict": {
+    "dict1" :  2312,
+    "nums": 124
+  },
+  "random_text": 234523,
+  "traffic": 50,
+  "mail_traffic": 10,
+  "numbers": 1234567890,
+  "distributed": true,
+  "nodes": 5,
+  "agent": 12312
+}
+

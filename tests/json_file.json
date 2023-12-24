@@ -1,0 +1,9 @@
+{
+  "agents": 1000,
+  "storage": 100,
+  "traffic": 50,
+  "mail_traffic": 10,
+  "distributed": true,
+  "nodes": 5
+}
+
